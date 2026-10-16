@@ -1,0 +1,11 @@
+{
+  "model": "GRU",
+  "input_len": 288,
+  "pred_len": 96,
+  "selection_metric": "mean validation MSE",
+  "seeds": [
+    0,
+    1,
+    2
+  ]
+}
